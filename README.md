@@ -18,7 +18,9 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+![alt text](imgs/image.png)
+
+Refer : [Google Collab Link](https://colab.research.google.com/drive/1Dcrpu46ztBdn7_D-n9yX_WVKmACxTp5A?usp=sharing)
 
 # Result:
- Include your result here
+Data Visualization using Matplot library is implemented and executed successfully.
