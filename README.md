@@ -23,4 +23,4 @@ STEP 5:Include Necessary parameters in each functions.
 Refer : [Google Collab Link](https://colab.research.google.com/drive/1Dcrpu46ztBdn7_D-n9yX_WVKmACxTp5A?usp=sharing)
 
 # Result:
-Data Visualization using Matplot library is implemented and executed successfully.
+Data Visualization using Seaborn library is implemented and executed successfully.
